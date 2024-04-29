@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SimuladorUniversidade {
+public class Universidade {
 
     public static void main(String[] args) {
         // Ler a entrada do arquivo
